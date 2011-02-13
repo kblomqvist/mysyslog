@@ -1,0 +1,5 @@
+mysyslog
+stresstester
+*.o
+*.pipe
+*.log
